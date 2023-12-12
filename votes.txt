@@ -1,0 +1,4 @@
+siva,0
+revanth,1
+kartikeya,0
+dhanvir,0
